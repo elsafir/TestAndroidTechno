@@ -1,0 +1,6 @@
+<!-- shadow.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#66000000"/> <!-- Warna shadow (putih agak abu-abu) -->
+    <corners android:radius="16dp"/> <!-- Jari-jari sudut yang diinginkan -->
+</shape>
